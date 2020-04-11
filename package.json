@@ -1,0 +1,23 @@
+{
+  "name": "css-loading-animation",
+  "version": "1.0.0",
+  "description": "Loading animation made by pure CSS.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/CSS-Loading-Animation.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/CSS-Loading-Animation/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/CSS-Loading-Animation#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
